@@ -1,0 +1,28 @@
+Python
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environment
+venv/
+env/
+.env/
+
+Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+IDE
+.vscode/
+.idea/
+
+Jupyter Notebook
+.ipynb_checkpoints
+
+Logs
+*.log
+
+Machine Learning
+*.model
+*.h5
